@@ -43,3 +43,5 @@ If you have any questions please email me at nlad218@gmail.com
 If you want to see more of my work please visit me at [nlad218](https://github.com/nlad218)
 
 ## Video link
+
+![Alt text](</svg-logo-maker/assets/Screen Recording 2023-09-20 at 5.04.07 PM.mov>)
