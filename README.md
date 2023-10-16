@@ -44,4 +44,4 @@ If you want to see more of my work please visit me at [nlad218](https://github.c
 
 ## Video link
 
-![Alt text](</homework/homework-ten/svg-logo-maker/assets/Screen Recording 2023-09-20 at 5.04.07 PM.movassets/Screen Recording 2023-09-20 at 5.04.07 PM.mov>)
+[Video demo](https://drive.google.com/file/d/1KTxC-DRBb6IjlQKEHS_iQ6YpNwoZuHXW/view?usp=share_link)
